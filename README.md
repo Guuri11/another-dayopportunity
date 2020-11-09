@@ -1,2 +1,2 @@
 # Another day, another opportunty...
-to do
+PWA with React JS where push notifications every day with the quote `Another day, another opportunity...` if you are subscribed
